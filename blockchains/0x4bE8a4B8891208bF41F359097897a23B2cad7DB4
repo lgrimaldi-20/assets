@@ -1,0 +1,11 @@
+{
+  "name": "USDT.Z",
+  "website": "https://www.smartautomatai.com/",
+  "description": "Token USDT.Z en BNB Chain",
+  "explorer": "https://bscscan.com/token/0x4bE8a4B8891208bF41F359097897a23B2cad7DB4",
+  "type": "BEP20",
+  "symbol": "USDT.Z",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x4bE8a4B8891208bF41F359097897a23B2cad7DB4"
+}
